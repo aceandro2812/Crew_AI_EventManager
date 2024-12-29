@@ -61,7 +61,7 @@ Before running the project, ensure you have the following installed:
 
 3.  **Set up API Key:**
 
-    -   Replace `AIzaSyA6Gd_kJL0g8XCMZXJ-uJwbTDYcac1zqGk` with your actual Gemini API key in the script.
+    -   Replace `xyz` with your actual Gemini API key in the script.
     -   **Important:** For security reasons, consider using environment variables to store sensitive information like API keys. You can set the API key as an environment variable and then modify the code to read it from there.
 
     ```python
